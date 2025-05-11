@@ -1,1 +1,0 @@
-console.log('Prodost Pricing Tool started');
